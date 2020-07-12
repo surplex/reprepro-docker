@@ -1,0 +1,11 @@
+%echo Generating a basic OpenPGP key
+Key-Type: SHA512
+Key-Length: 2048
+Subkey-Type: SHA256
+Subkey-Length: 1024
+Name-Real: Daniel Schischkin
+Name-Comment:
+Name-Email: keys@surplex.com
+Expire-Date: 0
+Passphrase:
+%commit
